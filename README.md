@@ -1,8 +1,3 @@
-Here is a README.md file for your project, providing an overview, installation steps, and usage instructions.
-
-
----
-
 LLM Distillation Project 🚀
 
 A lightweight and efficient approach to distilling large language models (LLMs) using PyTorch and Hugging Face Transformers.
